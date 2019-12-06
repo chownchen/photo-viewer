@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import * as PropTypes from "prop-types";
 const resolveAssetSource = require("react-native/Libraries/Image/resolveAssetSource");
-const ImageSourcePropType = require("react-native/Libraries/Image/ImageSourcePropType");
+const ImageSourcePropType = require("react-native/Libraries/DeprecatedPropTypes/DeprecatedImageSourcePropType");
 
 /**
  * Photo data
